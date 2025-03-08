@@ -1,6 +1,6 @@
 # Library-management-System
 
-A web-based Library Management System developed by me and Nishit Kapadia using HTML, CSS, JavaScript, Bootstrap and PHP. This system helps manage library operations, enabling admins to manage books and students to lend books efficiently. The system is backed by a SQL database to store all records securely.
+A web-based Library Management System developed by me using HTML, CSS, JavaScript, Bootstrap, PHP and MySQL. This system helps manage library operations, enabling admins to manage books and students to lend books efficiently. The system is backed by a SQL database to store all records securely.
 
 # Features:
 
