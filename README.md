@@ -19,7 +19,7 @@ Database: SQL ( MySQL ) <br>
 # Installation Guide:
 Clone this repository: <br>
 Copy code : 
-git clone https://github.com/yourusername/library-management-system.git <br> <br>
+git clone https://github.com/Krisshhh/library-management-system.git <br> <br>
 Move to the project directory: <br>
 Copy code : 
 cd library-management-system <br> <br>
